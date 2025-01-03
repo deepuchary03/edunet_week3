@@ -1,1 +1,16 @@
-# edunet_week3
+# Edunet_week3
+## Spotify clone using MERN [internship EY GDS EDUNET AICTE] week 
+
+## signin page
+![](./signin.png)
+
+## home
+![](./home.png)
+
+## Liked songs
+![](./liked.png)
+
+## Playlisted song
+![](./playlist.png)
+
+
